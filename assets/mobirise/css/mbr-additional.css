@@ -1850,3 +1850,21 @@ body {
     -webkit-justify-content: center;
   }
 }
+
+.cid-qK9XAPngXK {
+  background-image: url("../../../assets/images/02.jpg");
+}
+.cid-qK9XAPngXK .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+  background-color: #fff;
+}
+.cid-qK9XAPngXK .input-group-btn {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-qK9XAPngXK .content-container {
+    padding-right: 5rem;
+  }
+}

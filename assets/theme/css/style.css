@@ -2,6 +2,23 @@
  * Mobirise v4 theme (https://mobirise.com/)
  * Copyright 2017 Mobirise
  */
+ .hide{
+  display: none;
+ }
+ .show{
+  display: block;
+ }
+ .errorBorder{
+  border : 1px solid red!important;
+ }
+ .error{
+  color: red;
+ }
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
 section {
   background-color: #eeeeee; }
 
